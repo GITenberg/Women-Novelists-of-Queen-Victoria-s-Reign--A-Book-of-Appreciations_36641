@@ -1,0 +1,107 @@
+_repo: Women-Novelists-of-Queen-Victoria-s-Reign--A-Book-of-Appreciations_36641
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Alexander, Mrs.
+    aliases:
+    - Hector, Annie French
+    - Hector, Annie Alexander
+    birthdate: 1825
+    deathdate: 1902
+    gutenberg_agent_id: '8016'
+    url: http://www.gutenberg.org/2009/agents/8016
+  - agent_name: Parr, Louisa
+    alias: Parr, Mrs. (Louisa Taylor)
+    deathdate: &id001 1903
+    gutenberg_agent_id: '38392'
+    url: http://www.gutenberg.org/2009/agents/38392
+  - agent_name: Lyall, Edna
+    alias: Bayly, Ada Ellen
+    birthdate: 1857
+    deathdate: *id001
+    gutenberg_agent_id: '581'
+    url: http://www.gutenberg.org/2009/agents/581
+    wikipedia: http://en.wikipedia.org/wiki/Ada_Ellen_Bayly
+  - agent_name: Linton, E. Lynn (Elizabeth Lynn)
+    aliases:
+    - Lynn, Eliza
+    - Linton, Mrs. Lynn
+    - Linton, Lynn
+    - Linton, Elizabeth Lynn
+    - Linton, Eliza Lynn
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '4835'
+    url: http://www.gutenberg.org/2009/agents/4835
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lynn_Linton
+  - agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    - Oliphant, Margaret Oliphant Wilson
+    - Olyphant, Mrs.
+    - Mrs. (Margaret) Oliphant
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+  - agent_name: Marshall, Emma
+    alias: Marshall, Emma Martin
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '28350'
+    url: http://www.gutenberg.org/2009/agents/28350
+  - agent_name: Sergeant, Adeline
+    aliases:
+    - Sargeant, Adeline
+    - Sergeant, Emily Frances Adeline
+    birthdate: 1851
+    deathdate: 1904
+    gutenberg_agent_id: '26039'
+    url: http://www.gutenberg.org/2009/agents/26039
+  - agent_name: Macquoid, Katharine S. (Katharine Sarah)
+    aliases:
+    - Macquoid, Mrs.
+    - Macquoid, Katherine
+    - Macquoid, K. S. (Katharine Sarah)
+    birthdate: 1824
+    deathdate: 1917
+    gutenberg_agent_id: '42388'
+    url: http://www.gutenberg.org/2009/agents/42388
+  - agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2011-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36641'
+  lccn: '11019018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcsh 'English fiction -- Women authors -- History and criticism'
+- !lcsh 'Women novelists, English -- Biography'
+- !lcsh 'Women and literature -- Great Britain -- History -- 19th century'
+- !lcsh 'English fiction -- 19th century -- History and criticism'
+- !lcc 'PR'
+tableOfContents: The sisters Brontë, by Mrs. Oliphant -- George Eliot, by Mrs. Lynn
+  Linton -- Mrs. Gaskell, by Edna Lyall -- Mrs. Crowe, Mrs. Archer Clive, Mrs. Henry
+  Wood, by Adeline Sergeant -- Lady Georgiana Fullerton, Mrs. Stretton, Anne Manning,
+  by Charlotte M. Yonge -- Dinah Mulock (Mrs. Craik) by Mrs. Parr -- Julia Kavanagh,
+  Amelia Blandford Edwards, by Mrs. Macquoid -- Mrs. Norton, by Mrs. Alexander --
+  "A. L. O. E." (Miss Tucker), Mrs. Ewing, by Mrs. Marshall.
+title: 'Women Novelists of Queen Victoria''s Reign: A Book of Appreciations'
+url: http://www.gutenberg.org/ebooks/36641
