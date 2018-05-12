@@ -15,13 +15,13 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8016
   - agent_name: Parr, Louisa
     alias: Parr, Mrs. (Louisa Taylor)
-    deathdate: &id001 1903
+    deathdate: 1903
     gutenberg_agent_id: '38392'
     url: http://www.gutenberg.org/2009/agents/38392
   - agent_name: Lyall, Edna
     alias: Bayly, Ada Ellen
     birthdate: 1857
-    deathdate: *id001
+    deathdate: 1903
     gutenberg_agent_id: '581'
     url: http://www.gutenberg.org/2009/agents/581
     wikipedia: http://en.wikipedia.org/wiki/Ada_Ellen_Bayly
@@ -81,6 +81,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/945
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36641#Women-Novelists-of-Queen-Victoria-s-Reign--A-Book-of-Appreciations
 gutenberg_issued: '2011-07-06'
 gutenberg_type: Text
 identifiers:
